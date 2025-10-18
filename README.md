@@ -166,6 +166,6 @@ Or use Postman / your browser to visit
 
 ## Submission Information
 
-**Full Name:** Your Full Name
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Full Name:** samuel Ayomide
+**Email:** [samayo.dev@gmail.com](mailto:samayo.dev@gmail.com)
 **Stack:** PHP
